@@ -12,7 +12,7 @@ function(context, args)
 	var k = 9;
 	var to = false;
 	var tf = false;
-	while (r.indexOf("termi") == -1){
+	while (r.substr() == -1){
 		if (r.indexOf("EZ_21") != -1 ){
 			while (r.indexOf("EZ_21") == -1 && to == false){
 				v["EZ_21"]= e[i];
